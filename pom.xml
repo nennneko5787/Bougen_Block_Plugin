@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <!-- プロジェクトの開発者ID -->
-  <groupId>com.example</groupId>
+  <groupId>com.example.blank_plugin</groupId>
   <!-- プロジェクトのID。書き出されるファイル名にも使われる -->
   <artifactId>blank-plugin</artifactId>
   <!-- プロジェクトのバージョン。書き出されるファイル名にも使われる -->
